@@ -14,3 +14,13 @@ float:right;
     font-size: 20px;
     background-color: brown;
 }
+
+#restart_button{
+    font-size: 20px;
+    background-color: brown;
+}
+
+.modal-dialog{
+    width:90%;
+
+}
